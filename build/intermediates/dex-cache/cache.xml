@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dongxiaojing/.android/build-cache/029d2ece48fa57a982bf3e8f2485a2c2b954af1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/pre-dexed/debug/classes_30f53457e7af712256813433137221aa5adf8d7f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongxiaojing/.android/build-cache/167426b2f7ad498c670fa9aeb9cdf6fb1f08ab09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5ec15b7c43f40458fa353a0ade4341516cf8916/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongxiaojing/.android/build-cache/029d2ece48fa57a982bf3e8f2485a2c2b954af1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30f53457e7af712256813433137221aa5adf8d7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dongxiaojing/.android/build-cache/167426b2f7ad498c670fa9aeb9cdf6fb1f08ab09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/pre-dexed/debug/classes_f5ec15b7c43f40458fa353a0ade4341516cf8916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dongxiaojing/.android/build-cache/749c24354dc88d47814dc7527c488e58ddad89aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/pre-dexed/debug/classes_7e082e86bbfa01a4eec590bdb0e715ff413176e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dongxiaojing/.android/build-cache/d67420d1c9e0d190fde767d34a16baac46b72393/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/pre-dexed/debug/classes_24ca901e7a68d055663490cf68e245b009c2b43e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="223c48d63be5a74411d6948e0e4c5031b56c42ea">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_71e7de3fe513dda845d087b593b42a0712a68d89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongxiaojing/.android/build-cache/d67420d1c9e0d190fde767d34a16baac46b72393/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24ca901e7a68d055663490cf68e245b009c2b43e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongxiaojing/.android/build-cache/749c24354dc88d47814dc7527c488e58ddad89aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e082e86bbfa01a4eec590bdb0e715ff413176e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dongxiaojing/.android/build-cache/d3861b7a41081725d3830a6f50bb99b171fa025b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/pre-dexed/debug/classes_0b652926ac7edbd68719448b7bddd4184a30fa68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dongxiaojing/.android/build-cache/749c24354dc88d47814dc7527c488e58ddad89aa/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_8a6fce3d391520af7161668c134203c968f9b3d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongxiaojing/.android/build-cache/d3861b7a41081725d3830a6f50bb99b171fa025b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b652926ac7edbd68719448b7bddd4184a30fa68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongxiaojing/.android/build-cache/749c24354dc88d47814dc7527c488e58ddad89aa/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_8a6fce3d391520af7161668c134203c968f9b3d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongxiaojing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_b74f492c6561c4328e4e56c607d8d379d61a0478/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dongxiaojing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_b74f492c6561c4328e4e56c607d8d379d61a0478.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongxiaojing/.android/build-cache/029d2ece48fa57a982bf3e8f2485a2c2b954af1b/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_1dbb803bb4677d4d38fd93d519b6d64dd89279b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b98f1879f4d712f875ee5ac73978af8202d17db6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dongxiaojing/.android/build-cache/029d2ece48fa57a982bf3e8f2485a2c2b954af1b/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/dongxiaojing/AndroidStudioProjects/PermissionRequest/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_1dbb803bb4677d4d38fd93d519b6d64dd89279b5.jar" />
+    </item>
+
+</items>
